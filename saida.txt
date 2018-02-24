@@ -1,0 +1,3 @@
+Palavra reservada: 	print linha: 4
+Delimitador: "(" linha: 4
+Delimitador: ")" linha: 4

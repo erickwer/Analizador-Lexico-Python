@@ -1,0 +1,4 @@
+if ( 10 + 20 > 15 ) : 
+	print ( "Nao é maior" ) 
+else :
+	print ( "É maior" ) 
